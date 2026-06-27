@@ -17,6 +17,8 @@
 
 - Reach me at **pranavsureshpanhale@gmail.com**
 
+- This is my new educational github account. Old account is - https://github.com/ypranav
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pranavpanhale" target="blank">
